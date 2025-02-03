@@ -1,15 +1,12 @@
 langchain
 langchain-community
 langchain-core
-openai
-pypdf
-tiktoken
-aiofiles
-fastapi
-uvicorn
-jinja2
-python-multipart
-PyPDF2
-faiss-cpu
+langchain-google-genai
+langchain_experimental
+sentence-transformers
+langchain_chroma
+langchainhub
+streamlit
+dacite
 python-dotenv
 -e .
